@@ -1,0 +1,17 @@
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.AssemblyInfo.cs
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\bin\Debug\net7.0\teste1.exe
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\bin\Debug\net7.0\teste1.deps.json
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\bin\Debug\net7.0\teste1.runtimeconfig.json
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\bin\Debug\net7.0\teste1.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\bin\Debug\net7.0\teste1.pdb
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\refint\teste1.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.pdb
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.genruntimeconfig.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\ref\teste1.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\teste1\teste1\obj\Debug\net7.0\teste1.csproj.CopyComplete
