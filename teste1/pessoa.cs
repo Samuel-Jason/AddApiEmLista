@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace teste1
 {
-    internal class pessoa
+    public class pessoa
     {
+        public pessoa()
+        {
+
+        }
     }
 }
